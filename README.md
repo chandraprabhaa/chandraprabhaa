@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandraprabha A</h1>
+<h1 align="center">Hi 👋, I'm Chandraprabha </h1>
 
 <h3 align="center">🚀 Aspiring GenAI Engineer | OpenAI API Learner | AI Enthusiast</h3>
 
